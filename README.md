@@ -1,4 +1,4 @@
 # tutorial-NM
 
-1) ...
-2) aaa
+Hello! This is a simple tutorial for 
+version control and documentation
