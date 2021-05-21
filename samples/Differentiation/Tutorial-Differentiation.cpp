@@ -3,7 +3,7 @@
 
 Author           : Jan Park
 Created          : 10-05-2021
-Modified         : 10-05-2021
+Modified         : 21-05-2021
 Language/ver     : C++ in MSVS2019
 
 Description      : [Tutorial]Differentiation.cpp
@@ -18,6 +18,7 @@ int main(int argc, char* argv[])
 {
 
 	// PART 1
+	printf("\n**************************************************");
 	printf("\n**************************************************");
 	printf("\n|                     PART 1.                    |");
 	printf("\n**************************************************\n");
